@@ -2,8 +2,8 @@
 Changelog for package udp_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2021-03-09)
+------------------
 * update release CI
 * update CI
 * Contributors: flynneva
