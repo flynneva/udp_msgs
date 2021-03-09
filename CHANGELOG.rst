@@ -2,6 +2,12 @@
 Changelog for package udp_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* update release CI
+* update CI
+* Contributors: flynneva
+
 0.0.2 (2020-10-12)
 ------------------
 * add release gh action
